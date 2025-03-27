@@ -55,6 +55,8 @@ Configura os pinos do botão e do LED:
 2. Compile o código utilizando o sistema de build do Raspberry Pi Pico (CMake).
 3. Carregue o código no Raspberry Pi Pico utilizando a ferramenta de gravação de firmware.
 
+   ![Botão Pressionado](imagemteste1.heic)
+
 ## Dependências
 
 - **FreeRTOS**: Utilizado para gerenciamento das tarefas.
